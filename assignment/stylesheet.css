@@ -1,9 +1,22 @@
 header {
-    background-color: grey;
+    background-color: lightgrey;
 }
 
 .info {
+    margin: auto;
+    width: 60%;
+    border: 1px solid #071142;
+    text-align: center;
+}
+
+h2 {
     background-color: rgb(33, 98, 98);
     color: darkblue;
+    text-align: center;
+}
+
+h3 {
+    background-color: rgb(112, 9, 208);
+    color: red;
     text-align: center;
 }
