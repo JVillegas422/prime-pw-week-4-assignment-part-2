@@ -1,0 +1,9 @@
+header {
+    background-color: grey;
+}
+
+.info {
+    background-color: rgb(33, 98, 98);
+    color: darkblue;
+    text-align: center;
+}
